@@ -1,6 +1,8 @@
 # tree_mortality
 
-Companion code for Stovall et al. 2019 "Tree height increases mortality risk during extreme drought"
+Companion code for Stovall et al. 2019 "Tree height explains mortality risk during anintense drought" (Nature Communications)
+
+Read about the analysis here: https://rdcu.be/bR3IJ
 
 Due to GitHub file size limitations we are hosting the full dataset at figshare. 
 
